@@ -412,24 +412,6 @@ Background occupies 85-90% of voxels. Standard cross-entropy learns to predict a
 
 ---
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@inproceedings{roy2026federated,
-  title     = {Federated Learning-Based Brain Tumor Segmentation
-               Using 3D U-Net and DeepLabV3+ Architectures},
-  author    = {Roy, Pronomi and Nair, Adarsh S},
-  booktitle = {2nd International IEEE Conference on Big Data
-               and Machine Learning (ICBDML 2026)},
-  year      = {2026},
-  note      = {Paper ID: ICBDML-2026-738},
-  address   = {IES College of Technology, Bhopal, India}
-}
-```
-
----
 
 ## Acknowledgements
 
